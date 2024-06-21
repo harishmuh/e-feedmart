@@ -4,10 +4,7 @@ e-Feed Mart: a Python-based application program for simulating aquaculture feed 
 ![e-feedmart](https://github.com/harishmuh/e-feedmart/blob/main/E-FeedMart.JPG?raw=true)
 
 ## Context
-Welcome to e-Feed Mart, a digital simulation program designed to mimic the interactions between fish farmers and feed agents in the aquaculture industry. This program, written in Python, caters to individuals with an interest in aquaculture and those eager to gain experience with digital skills, particularly Python programming.
-
-### Background:
-This project emerged from the desire to combine knowledge of aquaculture biology and bio-management with newly acquired Python programming skills. The program serves as a stepping stone towards developing a more comprehensive Android application, offering a cost-effective and time-efficient solution for initial testing and user feedback.
+Welcome to e-Feed Mart, a digital simulation program designed to mimic the interactions between fish farmers and feed agents in the aquaculture industry. This program, written in Python, is a simple simulation app and data management system for an aquaculture feed store with CRUD operations (Create, Read, Update, and Delete feed store data). The program serves as a stepping stone towards developing a more comprehensive Android application, offering a cost-effective and time-efficient solution for initial testing and user feedback.
 
 ## Business Tasks
 ### Program Functionality:
