@@ -1,4 +1,4 @@
-## Capstone1_e-feedmart
+## e-feedmart
 e-Feed Mart: a Python-based application program for simulating aquaculture feed transactions and market
 
 By Harish Muhammad
