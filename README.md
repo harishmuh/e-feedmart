@@ -66,7 +66,7 @@ This data is displayed in a user-friendly list, allowing farmers and merchants t
 
 ## User Instructions:
 
-•	To run the program, you'll need Python installed on your system.
+•	To run the program, you'll need Python installed on your system or Visual Studio Code.
 
 •	Install library tabulate: pip install tabulate.
 
@@ -74,6 +74,10 @@ This data is displayed in a user-friendly list, allowing farmers and merchants t
 
 •	It is recommended to minimize typos and avoid pressing unnecessary buttons to ensure smooth operation.
 
-**Disclaimer**: This program is intended for educational and simulation purposes only. Currently, only available in Bahasa.
+**Disclaimer**: This program is intended for educational and simulation purposes only. The program is available in English and Bahasa.
+
+## Assets:
+* [E-Feed Mart.py](https://github.com/harishmuh/e-feedmart/blob/main/e-Feed%20Mart_engsub.py) (English sub)
+* [E-Feed Mart.py](https://github.com/harishmuh/e-feedmart/blob/main/e_feedmart_hm280224.py) (Indonesian or bahasa sub)
 
 
