@@ -7,7 +7,7 @@ e-Feed Mart: a Python-based application program for simulating aquaculture feed 
 Welcome to e-Feed Mart, a digital simulation program designed to mimic the interactions between fish farmers and feed agents in the aquaculture industry. This program, written in Python, is a simple simulation app and data management system for an aquaculture feed store with CRUD operations (Create, Read, Update, and Delete feed store data). The program serves as a stepping stone towards developing a more comprehensive Android application, offering a cost-effective and time-efficient solution for initial testing and user feedback.
 
 ## Business Tasks
-### Program Functionality:
+### Program Functionality
 e-Feed Mart allows users to assume the role of either a feed merchant or a fish farmer.
 ### Features:
 **For Feed Merchants:**
@@ -26,11 +26,11 @@ e-Feed Mart allows users to assume the role of either a feed merchant or a fish 
 
 •	Purchase products: Simulate the purchase of fish feed from the available offerings.
 
-## Objectives:
+## Objectives
 
 •	Provide a realistic and efficient platform for simulating interactions between feed merchants and fish farmers within the aquaculture industry.
 
-## Stakeholders or Target Users:
+## Stakeholders or Target Users
 
 •	Fish farmers: Individuals seeking to source suitable feed products for their aquaculture needs.
 
@@ -42,7 +42,7 @@ e-Feed Mart allows users to assume the role of either a feed merchant or a fish 
 
 •	Potential investors (if applicable): Parties interested in supporting the development of the program.
 
-## Limitations:
+## Limitations
 
 •	Data management: The program uses temporary data, meaning all product information entered by users is lost upon closing the application.
 
@@ -50,7 +50,7 @@ e-Feed Mart allows users to assume the role of either a feed merchant or a fish 
 
 •	Functionality: As a simulation tool, the program has limited features compared to a more comprehensive application. Despite these limitations, E-Feed Mart allows users to gain valuable experience simulating interactions within the aquaculture feed market.
 
-## Data Used:
+## Data Used
 
 •	Product code
 
@@ -64,9 +64,9 @@ e-Feed Mart allows users to assume the role of either a feed merchant or a fish 
 
 This data is displayed in a user-friendly list, allowing farmers and merchants to review product information. Please prepare data beforehand if you intend to simulate the role of a feed merchant.
 
-## User Instructions:
+## User Instructions
 
-•	To run the program, you'll need Python installed on your system or Visual Studio Code.
+•	To run the program, you'll need Python and Visual Studio Code installed on your system.
 
 •	Install library tabulate: pip install tabulate.
 
@@ -75,6 +75,10 @@ This data is displayed in a user-friendly list, allowing farmers and merchants t
 •	It is recommended to minimize typos and avoid pressing unnecessary buttons to ensure smooth operation.
 
 **Disclaimer**: This program is intended for educational and simulation purposes only. The program is available in English and Bahasa.
+
+## Documentation
+
+![product display long](https://github.com/harishmuh/e-feedmart/blob/main/product_display_long.PNG?raw=true)
 
 ## Assets:
 * [E-Feed Mart.py](https://github.com/harishmuh/e-feedmart/blob/main/e-Feed%20Mart_engsub.py) (English sub)
